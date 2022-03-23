@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "w": 12,
+        "x": 60,
+        "y": 60,
+        "detectedClass": "car"
+    },
+
+    {
+        "id": "2",
+        "w": 2,
+        "x": 25,
+        "y": 30,
+        "detectedClass": "person"
+    }
+]
